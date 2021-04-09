@@ -31,6 +31,7 @@ In addition to the detection of toxic language, community managers and moderator
 | *"Engaging comment.........."*      | 1       |
 | *"neutral comment....................."*   | 0        |
 
+
 ### Subtask 3: Fact-Claiming Comment Classification (Binary Classification Task)
 
 Beyond the challenge to ensure non-hostile debates, platforms and moderators are under pressure to act due to the rapid spread of **misinformation** and fake news. 
@@ -43,6 +44,7 @@ However, the identification of fact-claiming comments is a **pre-processing step
 | ----------- | ----------- |
 | *"fact-claiming comment.........."*      | 1       |
 | *"neutral comment....................."*   | 0        |
+
 
 ## How to Participate
 
