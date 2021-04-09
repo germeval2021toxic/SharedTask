@@ -18,8 +18,8 @@ Still, the detection of toxic content in online online discussions remains chall
 
 | message      | Sub_Toxic |
 | ----------- | ----------- |
-| *"Toxic comment"*      | 1       |
-| *"neutral comment"*   | 0        |
+| *"Toxic comment.........."*      | 1       |
+| *"neutral comment....................."*   | 0        |
 
 
 
