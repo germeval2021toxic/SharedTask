@@ -50,9 +50,9 @@ However, the identification of fact-claiming comments is a **pre-processing step
 
 Teams can participate either in all three or just in one ore two of the subtasks. Please register via google forms with your name and your institution or company. After your registration, you will recieve the password to the training data set via mail. The data structure is as follows:
 
-| message | Sub3_FactClaiming |
-| ----------- | ----------- |
-| *"Kinder werden nicht nur seltener krank, sie infizieren sich wohl auch seltener mit dem Coronavirus als ihre Eltern - das ist laut Ministerpräsident Winfried Kretschmann (Grüne) das Zwischenergebnis einer Untersuchung der Unikliniken Heidelberg, Freiburg und Tübingen."*      | 1       |
+| message | Sub3_FactClaiming | column3 |
+| ----------- | ----------- | ----------- |
+| *"Kinder werden nicht nur seltener krank, sie infizieren sich wohl auch seltener mit dem Coronavirus als ihre Eltern - das ist laut Ministerpräsident Winfried Kretschmann (Grüne) das Zwischenergebnis einer Untersuchung der Unikliniken Heidelberg, Freiburg und Tübingen."*      | 1       | 0 |
 
 ## Data Set and Resources
 
