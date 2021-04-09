@@ -48,13 +48,13 @@ However, the identification of fact-claiming comments is a **pre-processing step
 
 ## How to Participate
 
-Teams can participate either in all three or just in one ore two of the subtasks. Please register via google forms with your name and your institution or company. After your registration, you will recieve the password to the training data set via mail. The data structure is as follows:
+Teams can participate either in all three or just in one ore two of the subtasks. Please register via google forms with your name and your institution or company. After your registration, you will recieve the password to the training data set via mail. All teams that have submitted to the evaluation tool will be invited to write a short paper about their approach to publish in the GermEval2021 conference proceedings. 
 
 
 ## Data Set and Resources
 
-We provide an annotated dataset of Facebook usercomments that have been labeled by four trainedannotators. The dataset is drawn from the Facebook page of a German news broadcast, including user discussions from February till July 2019. The dataset will be shared with registered participants and will be made accessible for academic research purposes  after  the  shared  task has ended. The  dataset is provided in anonymized form. User information and comment ID’s will not be shared.
-For allcomments, we provide information on the shared context by adding the teaser text of the Facebook article posting. If a comment is a reply comment(sublevel-comment), the initial comment’s text is also provided (toplevel-comment).
+We provide an annotated dataset of **N=3,100 Facebook user comments** that have been labeled by four trained annotators. The dataset is drawn from the Facebook page of a **German news broadcast**, including user discussions from February till July **2019**. The dataset will be shared with **registered participants** and will be made accessible for academic research purposes  after  the  shared  task has ended. The  dataset is provided in **anonymized** form. User information and comment IDs will not be shared.
+For all comments, we provide information on the shared context by adding the teaser text of the Facebook article posting. If a comment is a reply comment (sublevel-comment), the initial comment’s text is also provided (toplevel-comment). The data is provided in .csv-format and the following structure:
 
 | comment_ID | comment_text | comment_time | Sub1_Toxicity | Sub2_Engaging | Sub3_FactClaiming |
 | ----------- | ----------- | ----------- |  ----------- | ----------- | ----------- |
@@ -64,28 +64,20 @@ For allcomments, we provide information on the shared context by adding the teas
 
 ## Evaluation
 
+To evaluate your approach, you will upload the predictions on the test data set that will be released shortly before the task will terminate. We will use the platform [codalab](codalab.org) for evaluation.
+The evaluation uses precision, recall, and macro-average F1-score as metrics. 
+
+## Time Line
+
+- Registration is open: April 15, 2021
+- Training data release: May 15, 2021
+- Test data release: June 23, 2021
+- Submission Deadline to codalab: June 30, 2021
+- Results are announced: July 7, 2021
+- Paper submission due: July 15, 2021
+- Camera ready due: August 10, 2021
+- KONVENS conference: September 6-10, 2021
 
 ## Recent Germeval Tasks
 
-## Please Cite
-
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## Time Line
