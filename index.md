@@ -18,8 +18,8 @@ Still, the detection of **toxic content** in online discussions **remains challe
 
 | message      | Sub1_Toxic |
 | ----------- | ----------- |
-| *"Na,  welchem tech riesen hat er seine Eierverkauft..?"*      | 1       |
-| *"Ich macht mich wutend, dass niemand den Schülerinnen Gehör schenkt"*   | 0        |
+| *"Na,  welchem tech riesen hat er seine Eier verkauft..?"*      | 1       |
+| *"Ich macht mich wütend, dass niemand den Schülerinnen Gehör schenkt"*   | 0        |
 
 
 ### Subtask 2: Engaging Comment Classification (Binary Classification Task)
@@ -28,7 +28,7 @@ In addition to the detection of toxic language, community managers and moderator
 
 | message      | Sub2_Engaging |
 | ----------- | ----------- |
-| *"Engaging comment.........."*      | 1       |
+| *"Wie wär’s mit einer Kostenteilung. Schließlich haben beide Parteien (Verkäufer und Käufer) etwas von der Tätigkeit des Maklers. Gilt gleichermassen für Vermietungen. Die  Kosten werden so oder soweit verrechnet, eine Kostenreduktion ist somit nicht zu erwarten."*      | 1       |
 | *"neutral comment....................."*   | 0        |
 
 
