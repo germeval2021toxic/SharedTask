@@ -29,7 +29,7 @@ In addition to the detection of toxic language, community managers and moderator
 | message      | Sub2_Engaging |
 | ----------- | ----------- |
 | *"Wie wär’s mit einer Kostenteilung. Schließlich haben beide Parteien (Verkäufer und Käufer) etwas von der Tätigkeit des Maklers. Gilt gleichermassen für Vermietungen. Die  Kosten werden so oder soweit verrechnet, eine Kostenreduktion ist somit nicht zu erwarten."*      | 1       |
-| *"neutral comment....................."*   | 0        |
+| *"Die aktuelle Situation zeigt vor allem eines: viele Kinder mussten erkennen, dass ihre Mutter bestenfalls das Niveau Grundschule, Klasse 3 haben."*   | 0        |
 
 
 ### Subtask 3: :point_up: Fact-Claiming Comment Classification (Binary Classification Task)
@@ -42,13 +42,17 @@ However, the identification of fact-claiming comments is a **pre-processing step
 
 | message      | Sub3_FactClaiming |
 | ----------- | ----------- |
-| *"Die aktuelle Situation zeigt vor allem eines: viele Kinder mussten erkennen, dass ihre Mutter bestenfalls das Niveau Grundschule, Klasse 3 haben."*      | 1       |
-| *"neutral comment....................."*   | 0        |
+| *"Kinder werden nicht nur seltener krank, sie infizieren sich wohl auch seltener mit dem Coronavirus als ihre Eltern - das ist laut Ministerpräsident Winfried Kretschmann (Grüne) das Zwischenergebnis einer Untersuchung der Unikliniken Heidelberg, Freiburg und Tübingen."*      | 1       |
+| *"hmm...das kann ich jetzt nich nachvollziehen..."*   | 0        |
 
 
 ## How to Participate
 
-Teams can participate either in all three subtasks or just one ore two of the following subtasks. Please register via google forms with your name and your institution or company. After your registration, you will recieve the password to the training data set via mail.
+Teams can participate either in all three or just in one ore two of the subtasks. Please register via google forms with your name and your institution or company. After your registration, you will recieve the password to the training data set via mail. The data structure is as follows:
+
+| message | Sub3_FactClaiming |
+| ----------- | ----------- |
+| *"Kinder werden nicht nur seltener krank, sie infizieren sich wohl auch seltener mit dem Coronavirus als ihre Eltern - das ist laut Ministerpräsident Winfried Kretschmann (Grüne) das Zwischenergebnis einer Untersuchung der Unikliniken Heidelberg, Freiburg und Tübingen."*      | 1       |
 
 ## Data Set and Resources
 
