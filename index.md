@@ -22,10 +22,14 @@ Still, the detection of toxic content in online online discussions remains chall
 | *"neutral comment....................."*   | 0        |
 
 
-
 ### Subtask 2: Engaging Comment Classification (Binary Classification Task)
 
 In addition to the detection of toxic language, community managers and moderators increasingly express interest in identifying particularly valuable user content, for example, to highlight them and to give them more visibility. That includes rational, respectful, and reciprocal comments that can encourage readers to join the discussion, increase positive perceptions of discussion providers, and can enhance more fruitful and less violent exchange.
+
+ message      | Sub_Engaging |
+| ----------- | ----------- |
+| *"Engaging comment.........."*      | 1       |
+| *"neutral comment....................."*   | 0        |
 
 ### Subtask 3: Fact-Claiming Comment Classification (Binary Classification Task)
 
@@ -35,8 +39,12 @@ As a result, there is an increasing demand for systems that automatically identi
 Note that this subtask is not about the fact-checking itself or the identification of fake news.
 However, the identification of fact-claiming comments is a pre-processing step for manual fact-checking.
 
-
+ message      | Sub_FactClaiming |
+| ----------- | ----------- |
+| *"fact-claiming comment.........."*      | 1       |
+| *"neutral comment....................."*   | 0        |
 ## How to Participate
+
 
 Teams can participate either in all three subtasks or just one ore two of the following subtasks.
 
