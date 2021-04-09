@@ -64,7 +64,7 @@ For all comments, we provide information on the shared context by adding the tea
 
 ## Evaluation
 
-To evaluate your approach, you will upload the predictions on the test data set that will be released shortly before the task will terminate. We will use the platform [codalab](codalab.org) for evaluation.
+To evaluate your approach, you will upload the predictions on the test data set that will be released shortly before the task will terminate. We will use the platform [codalab](https://codalab.org/) for evaluation.
 The evaluation uses precision, recall, and macro-average F1-score as metrics. 
 
 ## Time Line
