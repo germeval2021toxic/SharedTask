@@ -16,7 +16,7 @@ To this end, we extend the focus to two other classes of comments that are highl
 
 Still, the detection of toxic content in online online discussions remains challenging and new approaches are constantly being demanded and developed. With this subtask we aim to continue the series of previous GermEval Shared Tasks on Offensive Language Identification.
 
-| message      | Sub_Toxic |
+| message      | Sub1_Toxic |
 | ----------- | ----------- |
 | *"Toxic comment.........."*      | 1       |
 | *"neutral comment....................."*   | 0        |
@@ -26,7 +26,7 @@ Still, the detection of toxic content in online online discussions remains chall
 
 In addition to the detection of toxic language, community managers and moderators increasingly express interest in identifying particularly valuable user content, for example, to highlight them and to give them more visibility. That includes rational, respectful, and reciprocal comments that can encourage readers to join the discussion, increase positive perceptions of discussion providers, and can enhance more fruitful and less violent exchange.
 
- message      | Sub_Engaging |
+ message      | Sub2_Engaging |
 | ----------- | ----------- |
 | *"Engaging comment.........."*      | 1       |
 | *"neutral comment....................."*   | 0        |
@@ -39,7 +39,7 @@ As a result, there is an increasing demand for systems that automatically identi
 Note that this subtask is not about the fact-checking itself or the identification of fake news.
 However, the identification of fact-claiming comments is a pre-processing step for manual fact-checking.
 
- message      | Sub_FactClaiming |
+ message      | Sub3_FactClaiming |
 | ----------- | ----------- |
 | *"fact-claiming comment.........."*      | 1       |
 | *"neutral comment....................."*   | 0        |
