@@ -16,6 +16,12 @@ To this end, we extend the focus to two other classes of comments that are highl
 
 Still, the detection of toxic content in online online discussions remains challenging and new approaches are constantly being demanded and developed. With this subtask we aim to continue the series of previous GermEval Shared Tasks on Offensive Language Identification.
 
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+
+
 
 ### Subtask 2: Engaging Comment Classification (Binary Classification Task)
 
