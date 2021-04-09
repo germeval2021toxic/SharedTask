@@ -48,11 +48,12 @@ However, the identification of fact-claiming comments is a **pre-processing step
 
 ## How to Participate
 
-
-Teams can participate either in all three subtasks or just one ore two of the following subtasks.
+Teams can participate either in all three subtasks or just one ore two of the following subtasks. Please register via google forms with your name and your institution or company. After your registration, you will recieve the password to the training data set via mail.
 
 ## Data Set and Resources
 
+We provide an annotated dataset of Facebook usercomments that have been labeled by four trainedannotators. The dataset is drawn from the Facebook page of a German news broadcast, including user discussions from February till July 2019. The dataset will be shared with registered participants and will be made accessible for academic research purposes  after  the  shared  task has ended. The  dataset is provided in anonymized form. User information and comment ID’s will not be shared.
+For allcomments, we provide information on the shared context by adding the teaser text of the Facebook article posting. If a comment is a reply comment(sublevel-comment), the initial comment’s text is also provided (toplevel-comment).
 
 ## Evaluation
 
