@@ -57,7 +57,7 @@ We provide an annotated dataset of Facebook usercomments that have been labeled 
 For allcomments, we provide information on the shared context by adding the teaser text of the Facebook article posting. If a comment is a reply comment(sublevel-comment), the initial comment’s text is also provided (toplevel-comment).
 
 | comment_ID | comment_text | comment_time | Sub1_Toxicity | Sub2_Engaging | Sub3_FactClaiming |
-| ----------- | ----------- | ----------- |  ----------- | ----------- |
+| ----------- | ----------- | ----------- |  ----------- | ----------- | ----------- |
 | 1 | *"Kinder werden...."*      | 01.02.2019 - 22.30.33 | 0 | 1 | 0 |
 | 2 | *"Kinder werden...."*      | 01.02.2019 - 22.30.33 | 0 | 1 | 0 |
 | n | ... | ... | ... | ... | ... |
