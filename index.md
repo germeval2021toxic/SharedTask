@@ -42,7 +42,7 @@ However, the identification of fact-claiming comments is a **pre-processing step
 
 | message      | Sub3_FactClaiming |
 | ----------- | ----------- |
-| *"fact-claiming comment.........."*      | 1       |
+| *"Die aktuelle Situation zeigt vor allem eines: viele Kinder mussten erkennen, dass ihre Mutter bestenfalls das Niveau Grundschule, Klasse 3 haben."*      | 1       |
 | *"neutral comment....................."*   | 0        |
 
 
