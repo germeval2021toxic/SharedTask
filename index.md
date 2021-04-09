@@ -11,7 +11,7 @@ With this year´s shared task, we want participants to go beyond the identificat
 To this end, we extend the focus to two other classes of comments that are highly **relevant** to **moderators** and **community managers** on online discussion platforms: **engaging** comments and **fact-claiming** comments, meaning comments that should be considered as a **priority for fact-checking**.
 
 
-### Subtask 1: Toxic Comment Classification (Binary Classification Task)
+### :imp: Subtask 1: Toxic Comment Classification (Binary Classification Task)
 
 
 Still, the detection of **toxic content** in online discussions **remains challenging** and new approaches are constantly being demanded and developed. With this subtask we aim to **continue** the series of previous **GermEval Shared Tasks** on Offensive Language Identification.
