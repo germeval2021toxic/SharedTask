@@ -1,5 +1,7 @@
-# Shared Task on the Identification of Toxic, Encouraging and Fact-Claiming Comments
+# Welcome!
+## To the Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments
 
+If you have any questions, please [contact us](mailto:germeval2021toxic@gmail.com)!
 
 ## Task Overview
 
