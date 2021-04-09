@@ -14,7 +14,7 @@ To this end, we extend the focus to two other classes of comments that are highl
 ### Subtask 1: Toxic Comment Classification (Binary Classification Task)
 
 
-Still, the detection of toxic content in online online discussions remains challenging and new approaches are constantly being demanded and developed. With this subtask we aim to continue the series of previous GermEval Shared Tasks on Offensive Language Identification.
+Still, the detection of **toxic content** in online online discussions **remains challenging** and new approaches are constantly being demanded and developed. With this subtask we aim to **continue** the series of previous **GermEval Shared Tasks** on Offensive Language Identification.
 
 | message      | Sub1_Toxic |
 | ----------- | ----------- |
@@ -24,7 +24,7 @@ Still, the detection of toxic content in online online discussions remains chall
 
 ### Subtask 2: Engaging Comment Classification (Binary Classification Task)
 
-In addition to the detection of toxic language, community managers and moderators increasingly express interest in identifying particularly valuable user content, for example, to highlight them and to give them more visibility. That includes rational, respectful, and reciprocal comments that can encourage readers to join the discussion, increase positive perceptions of discussion providers, and can enhance more fruitful and less violent exchange.
+In addition to the detection of toxic language, community managers and moderators increasingly express interest in **identifying particularly valuable** user content, for example, to highlight them and to give them more visibility. That includes rational, respectful, and reciprocal comments that can **encourage** readers to join the discussion, **increase positive perceptions** of discussion providers, and can enhance more **fruitful** and less violent exchange.
 
  message      | Sub2_Engaging |
 | ----------- | ----------- |
@@ -33,11 +33,11 @@ In addition to the detection of toxic language, community managers and moderator
 
 ### Subtask 3: Fact-Claiming Comment Classification (Binary Classification Task)
 
-Beyond the challenge to ensure non-hostile debates, platforms and moderators are under pressure to act due to the rapid spread of misinformation and fake news. 
-Platforms need to review and verify posted information to meet their responsibility as information providers and distributors. 
-As a result, there is an increasing demand for systems that automatically identify comments that should be fact-checked manually.
+Beyond the challenge to ensure non-hostile debates, platforms and moderators are under pressure to act due to the rapid spread of **misinformation** and fake news. 
+Platforms need to review and verify posted information to meet their **responsibility** as information providers and distributors. 
+As a result, there is an increasing demand for systems that automatically identify comments that should befact-checked manually.
 Note that this subtask is not about the fact-checking itself or the identification of fake news.
-However, the identification of fact-claiming comments is a pre-processing step for manual fact-checking.
+However, the identification of fact-claiming comments is a **pre-processing step for manual fact-checking**.
 
  message      | Sub3_FactClaiming |
 | ----------- | ----------- |
