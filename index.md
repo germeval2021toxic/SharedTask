@@ -22,7 +22,7 @@ Still, the detection of **toxic content** in online discussions **remains challe
 | *"Ich macht mich wütend, dass niemand den Schülerinnen Gehör schenkt"*   | 0        |
 
 
-### Subtask 2: :hugging: Engaging Comment Classification (Binary Classification Task)
+### Subtask 2: :hugs: Engaging Comment Classification (Binary Classification Task)
 
 In addition to the detection of toxic language, community managers and moderators increasingly express interest in **identifying particularly valuable** user content, for example, to highlight them and to give them more visibility. That includes rational, respectful, and reciprocal comments that can **encourage** readers to join the discussion, **increase positive perceptions** of discussion providers, and can enhance more **fruitful** and less violent exchange.
 
