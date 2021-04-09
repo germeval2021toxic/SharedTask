@@ -48,7 +48,7 @@ However, the identification of fact-claiming comments is a **pre-processing step
 
 ## How to Participate
 
-Teams can participate either in all three or just in one ore two of the subtasks. Please register via google forms with your name and your institution or company. After your registration, you will recieve the password to the training data set via mail. All teams that have submitted to the evaluation tool will be invited to write a short paper about their approach by July 15, 2021 to be published in the GermEval2021 conference proceedings. Have a look at recent years papers in the [GermEval2018 Proceedings](https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/GermEval2018_Proceedings.pdf) for inspiration.
+Teams can participate either in all three or just in one ore two of the subtasks. Please register via google forms with your name and your institution or company. After your registration, you will recieve the password to the training data set via mail. All teams that have submitted to the evaluation tool will be invited to write a short paper about their approach by July 15, 2021 to be published in the GermEval2021 conference proceedings. Have a look at recent years papers of the GermEval Shared Task on the Identification of Offensive Languagen in [2018](https://www.oeaw.ac.at/fileadmin/subsites/academiaecorpora/PDF/GermEval2018_Proceedings.pdf) and [2019](https://corpora.linguistik.uni-erlangen.de/data/konvens/proceedings/) for inspiration.
 
 
 ## Data Set and Resources
