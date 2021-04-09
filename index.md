@@ -14,7 +14,7 @@ To this end, we extend the focus to two other classes of comments that are highl
 ### Subtask 1: Toxic Comment Classification (Binary Classification Task)
 
 
-Still, the detection of **toxic content** in online online discussions **remains challenging** and new approaches are constantly being demanded and developed. With this subtask we aim to **continue** the series of previous **GermEval Shared Tasks** on Offensive Language Identification.
+Still, the detection of **toxic content** in online discussions **remains challenging** and new approaches are constantly being demanded and developed. With this subtask we aim to **continue** the series of previous **GermEval Shared Tasks** on Offensive Language Identification.
 
 | message      | Sub1_Toxic |
 | ----------- | ----------- |
