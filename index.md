@@ -18,8 +18,8 @@ Still, the detection of **toxic content** in online discussions **remains challe
 
 | message      | Sub1_Toxic |
 | ----------- | ----------- |
-| *"Toxic comment.........."*      | 1       |
-| *"neutral comment....................."*   | 0        |
+| *"Na,  welchem tech riesen hat er seine Eierverkauft..?"*      | 1       |
+| *"Ich macht mich wutend, dass niemand den Schülerinnen Gehör schenkt"*   | 0        |
 
 
 ### Subtask 2: Engaging Comment Classification (Binary Classification Task)
