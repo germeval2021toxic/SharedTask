@@ -11,7 +11,7 @@ With this year´s shared task, we want participants to go beyond the identificat
 To this end, we extend the focus to two other classes of comments that are highly **relevant** to **moderators** and **community managers** on online discussion platforms: **engaging** comments and **fact-claiming** comments, meaning comments that should be considered as a **priority for fact-checking**.
 
 
-### :imp: Subtask 1: Toxic Comment Classification (Binary Classification Task)
+### Subtask 1: :imp: Toxic Comment Classification (Binary Classification Task)
 
 
 Still, the detection of **toxic content** in online discussions **remains challenging** and new approaches are constantly being demanded and developed. With this subtask we aim to **continue** the series of previous **GermEval Shared Tasks** on Offensive Language Identification.
@@ -22,7 +22,7 @@ Still, the detection of **toxic content** in online discussions **remains challe
 | *"Ich macht mich wütend, dass niemand den Schülerinnen Gehör schenkt"*   | 0        |
 
 
-### :hugging: Subtask 2: Engaging Comment Classification (Binary Classification Task)
+### Subtask 2: :hugging: Engaging Comment Classification (Binary Classification Task)
 
 In addition to the detection of toxic language, community managers and moderators increasingly express interest in **identifying particularly valuable** user content, for example, to highlight them and to give them more visibility. That includes rational, respectful, and reciprocal comments that can **encourage** readers to join the discussion, **increase positive perceptions** of discussion providers, and can enhance more **fruitful** and less violent exchange.
 
@@ -32,7 +32,7 @@ In addition to the detection of toxic language, community managers and moderator
 | *"neutral comment....................."*   | 0        |
 
 
-### :point_up: Subtask 3: Fact-Claiming Comment Classification (Binary Classification Task)
+### Subtask 3: :point_up: Fact-Claiming Comment Classification (Binary Classification Task)
 
 Beyond the challenge to ensure non-hostile debates, platforms and moderators are under pressure to act due to the rapid spread of **misinformation** and fake news. 
 Platforms need to review and verify posted information to meet their **responsibility** as information providers and distributors. 
