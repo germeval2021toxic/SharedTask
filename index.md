@@ -69,7 +69,7 @@ The evaluation uses precision, recall, and macro-average F1-score as metrics.
 
 ## Time Line
 
-- Registration is open: April 15, 2021
+- :heavy_check_mark: Registration is open: April 15, 2021
 - Training data release: May 15, 2021
 - Test data release: June 23, 2021
 - Submission Deadline to codalab: June 30, 2021
