@@ -78,6 +78,3 @@ The evaluation uses precision, recall, and macro-average F1-score as metrics.
 - Camera ready due: August 10, 2021
 - KONVENS conference: September 6-10, 2021
 
-## Recent Germeval Tasks
-
-## Time Line
