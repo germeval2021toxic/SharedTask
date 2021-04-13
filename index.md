@@ -56,12 +56,11 @@ Teams can participate either in all three or just in one ore two of the subtasks
 We provide an annotated dataset of **N=3,100 Facebook user comments** that have been labeled by four trained annotators. The dataset is drawn from the Facebook page of a **German news broadcast**, including user discussions from February till July **2019**. The dataset will be shared with **registered participants** and will be made accessible for academic research purposes  after  the  shared  task has ended. The  dataset is provided in **anonymized** form. User information and comment IDs will not be shared.
 For all comments, we provide information on the shared context by adding the teaser text of the Facebook article posting. If a comment is a reply comment (sublevel-comment), the initial comment’s text is also provided (toplevel-comment). The data is provided in .csv-format and the following structure:
 
-| comment_ID | comment_text | comment_time | Sub1_Toxicity | Sub2_Engaging | Sub3_FactClaiming |
-| ----------- | ----------- | ----------- |  ----------- | ----------- | ----------- |
-| 1 | *"Kinder werden...."*      | 01.02.2019 - 22.30.33 | 0 | 1 | 0 |
-| 2 | *"Kinder werden...."*      | 01.02.2019 - 22.30.33 | 0 | 1 | 0 |
-| n | ... | ... | ... | ... | ... |
-
+| comment_ID | comment_text | Sub1_Toxicity | Sub2_Engaging | Sub3_FactClaiming |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1 | *"Kinder werden...."*      | 0 | 1 | 0 |
+| 2 | *"Die aktuelle Situation zeigt vor allem..."* | 0 | 1 | 0 |
+| ... | ... | ... | ... | ... | 
 ## Evaluation
 
 To evaluate your approach, you will upload the predictions on the test data set that will be released shortly before the task will terminate. We will use the platform [codalab](https://codalab.org/) for evaluation.
