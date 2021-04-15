@@ -61,6 +61,7 @@ We provide an annotated dataset of over **3,100 Facebook user comments** that ha
 
 For trail data, a sample of user comments to two shows are provided. The user comments in the test data will be drawn from discussions on different shows than in the training data. This way, we can provide a realistic use case and further can control a possible bias causes by topics.
 
+
 ## Evaluation
 
 To evaluate your approach, you will upload the predictions on the test data set that will be released shortly before the task will terminate. We will use the platform [codalab](https://codalab.org/) for evaluation.
@@ -84,4 +85,5 @@ The Germeval Shared Tasks are traditionally hosted by KONVENS (Conference on Nat
 
 ## Organizers
 
+TEST TEST
 If you have any questions, please do not hesitate to [contact us](mailto:germeval2021toxic@gmail.com)!
