@@ -1,8 +1,6 @@
 # Welcome!
 # To the Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments
 
-If you have any questions, please do not hesitate to [contact us](mailto:germeval2021toxic@gmail.com)!
-
 :warning: ***Disclaimer**: Please note that we display examples of toxic user comments on this website for better understanding and transparency.*
 
 ## Task Overview
@@ -78,3 +76,4 @@ The evaluation uses precision, recall, and macro-average F1-score as metrics.
 - Camera ready due: August 10, 2021
 - KONVENS conference: September 6-10, 2021
 
+If you have any questions, please do not hesitate to [contact us](mailto:germeval2021toxic@gmail.com)!
