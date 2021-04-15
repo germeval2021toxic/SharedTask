@@ -12,7 +12,7 @@ To this end, we extend the focus to two other classes of comments that are highl
 ### Subtask 1: :imp: Toxic Comment Classification (Binary Classification Task)
 
 
-Still, the detection of **toxic content** in online discussions **remains challenging** and new approaches are constantly being demanded and developed. With this subtask we aim to **continue** the series of previous **GermEval Shared Tasks** on Offensive Language Identification.
+The detection of **toxic content** in online discussions **remains challenging** and new approaches are constantly being demanded and developed. With this subtask we aim to **continue** the series of previous **GermEval Shared Tasks** on Offensive Language Identification.
 
 | message      | Sub1_Toxic |
 | ----------- | ----------- |
@@ -46,7 +46,7 @@ However, the identification of fact-claiming comments is a **pre-processing step
 
 ## How to Participate
 
-Teams can participate either in all three or just in one ore two of the subtasks. Please register individually [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. After your registration, you will recieve the link and password to the training data set via email. All teams that have submitted to the evaluation tool will be invited to write a short paper about their approach by July 15, 2021 to be published in the GermEval2021 conference proceedings. (Overleaf and Word tamplates can be provided.) Have a look at [recent year's proceedings](https://germeval.github.io/) of the GermEval Shared Tasks on the Identification of Offensive Languagen for inspiration.
+Teams can participate either in all three or just in one or two of the subtasks. Please register individually [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. After your registration, you will receive the link and password to the training data sent via email. All teams that have submitted a system response will be invited to write a (short) paper about their approach by July 15, 2021 to be published in the GermEval2021 conference proceedings. (Overleaf and Word tamplates can be provided.) Have a look at [recent year's proceedings](https://germeval.github.io/) of the GermEval Shared Tasks on the Identification of Offensive Languagen for inspiration.
 
 
 ## Data Set and Resources
@@ -59,12 +59,14 @@ We provide an annotated dataset of over **3,100 Facebook user comments** that ha
 | 2 | *"Die aktuelle Situation zeigt vor allem..."* | 0 | 1 | 0 |
 | ... | ... | ... | ... | ... | 
 
-For trail data, a sample of user comments to two shows are provided. The user comments in the test data will be drawn from discussions on different shows than in the training data. This way, we can provide a realistic use case and further can control a possible bias causes by topics.
+For trial data, a sample of user comments to two shows are provided. The user comments in the test data will be drawn from discussions on different shows than in the training data. This way, we can provide a realistic use case and further can control a possible bias causes by topics.
+
+The annotation guidelines for the data set can be obtained upon request.
 
 
 ## Evaluation
 
-To evaluate your approach, you will upload the predictions on the test data set that will be released shortly before the task will terminate. We will use the platform [codalab](https://codalab.org/) for evaluation.
+To evaluate your approach, you will upload your predictions on the test data set that will be released shortly before the task will terminate. We will use the platform [codalab](https://codalab.org/) for evaluation.
 The evaluation uses precision, recall, and macro-average F1-score as metrics. 
 
 ## Time Line
@@ -79,11 +81,21 @@ The evaluation uses precision, recall, and macro-average F1-score as metrics.
 - Camera ready due: August 10, 2021
 - KONVENS conference: September 6-10, 2021
 
+
+## About GermEval
+
+GermEval is a series of shared task evaluation campaigns that focus on Natural Language Processing for the German language. So far, there have been six iterations of GermEval, each with different types of tasks: [https://germeval.github.io/tasks/](https://germeval.github.io/tasks/) GermEval shared tasks have been run informally by self-organized groups of interested researchers. However, many of the shared tasks were endorsed by special interest groups within the [German Society for Computational Linguistics (GSCL)](https://gscl.org/en). The Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments is endorsed by the [IGGSA (Interest Group on German Sentiment Analysis)](https://sites.google.com/site/iggsahome/home).
+
+
 ## About KONVENS
 
-The Germeval Shared Tasks are traditionally hosted by KONVENS (Conference on Natural Language Processing). KONVENS is an annual scientific conference on all topics related to computational linguistics and language technology. Please find more information on KONVENS and previous Germeval Shared Tasks [here](https://konvens.org/site/). This year, the KONVENS will take please at the Heinrich-Heine-University Düsseldorf. For more information, see the [conference website](https://konvens2021.phil.hhu.de/). 
+The GermEval 2021 workshop is part of [KONVENS 2021](https://konvens2021.phil.hhu.de/). KONVENS (Konferenz zur Verarbeitung natürlicher Sprache/Conference on Natural Language Processing) is an annual conference series on computational linguistics that is organized under the auspices of the German Society for Computational Linguistics and Language Technology (GSCL), the Special Interest Group on Computational Linguistics of the German Linguistic Society (DGfS-CL) and the Austrian Society for Artificial Intelligence (ÖGAI).
 
 ## Organizers
 
-TEST TEST
+- Julian Risch (Hasso Plattner Institute, University of Potsdam)
+- Anke Stoll (Department of Social Sciences, Heinrich Heine University Düsseldorf)
+- Lena Wilms (Department of Social Sciences, Heinrich Heine University Düsseldorf)
+- Michael Wiegand (Digital Age Research Center, University of Klagenfurt)
+
 If you have any questions, please do not hesitate to [contact us](mailto:germeval2021toxic@gmail.com)!
