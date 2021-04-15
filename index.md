@@ -76,4 +76,10 @@ The evaluation uses precision, recall, and macro-average F1-score as metrics.
 - Camera ready due: August 10, 2021
 - KONVENS conference: September 6-10, 2021
 
+## About KONVENS
+
+Insert Text here (oapy paste)
+
+## Organizers
+
 If you have any questions, please do not hesitate to [contact us](mailto:germeval2021toxic@gmail.com)!
