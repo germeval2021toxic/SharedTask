@@ -68,7 +68,8 @@ The evaluation uses precision, recall, and macro-average F1-score as metrics.
 ## Time Line
 
 - :heavy_check_mark: Registration is open: April 15, 2021
-- :heavy_check_mark: Trail data release: April 30, 2021
+- :heavy_check_mark: Trail data release: April 15, 2021
+- Train data release: April 30, 2021
 - Test data release: June 23, 2021
 - Submission deadline to codalab: June 30, 2021
 - Results are announced: July 7, 2021
@@ -78,7 +79,7 @@ The evaluation uses precision, recall, and macro-average F1-score as metrics.
 
 ## About KONVENS
 
-Insert Text here (oapy paste)
+The Germeval Shared Tasks are traditionally hosted by KONVENS (Conference on Natural Language Processing), also this year. For more information, see the [conference website](https://konvens2021.phil.hhu.de/). KONVENS is an annual scientific conference on all topics related to computational linguistics and language technology. Please find more information on KONEVNS and previous Germeval Shared Tasks [here](https://konvens.org/site/). 
 
 ## Organizers
 
