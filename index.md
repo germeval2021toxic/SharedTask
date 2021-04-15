@@ -34,7 +34,7 @@ In addition to the detection of toxic language, community managers and moderator
 
 Beyond the challenge to ensure non-hostile debates, platforms and moderators are under pressure to act due to the rapid spread of **misinformation** and fake news. 
 Platforms need to review and verify posted information to meet their **responsibility** as information providers and distributors. 
-As a result, there is an increasing demand for systems that automatically identify comments that should befact-checked manually.
+As a result, there is an increasing demand for systems that automatically identify comments that should be fact-checked manually.
 Note that this subtask is not about the fact-checking itself or the identification of fake news.
 However, the identification of fact-claiming comments is a **pre-processing step for manual fact-checking**.
 
