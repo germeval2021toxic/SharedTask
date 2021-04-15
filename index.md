@@ -58,9 +58,10 @@ For all comments, we provide information on the shared context by adding the tea
 
 | comment_ID | comment_text | Sub1_Toxicity | Sub2_Engaging | Sub3_FactClaiming |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | *"Kinder werden...."*      | 0 | 1 | 0 |
+| 1 | *"Kinder werden...."*      | 0 | 0 | 1 |
 | 2 | *"Die aktuelle Situation zeigt vor allem..."* | 0 | 1 | 0 |
 | ... | ... | ... | ... | ... | 
+
 ## Evaluation
 
 To evaluate your approach, you will upload the predictions on the test data set that will be released shortly before the task will terminate. We will use the platform [codalab](https://codalab.org/) for evaluation.
