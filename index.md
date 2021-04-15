@@ -59,7 +59,7 @@ We provide an annotated dataset of over **3,100 Facebook user comments** that ha
 | 2 | *"Die aktuelle Situation zeigt vor allem..."* | 0 | 1 | 0 |
 | ... | ... | ... | ... | ... | 
 
-For trail data, a sample of user comments to two shows are provided. The user comments in the test data will be drawn from the discussions on different shows than in the training data. This way, we can provide a realistic use case and further can control a possible bias causes by topics.
+For trail data, a sample of user comments to two shows are provided. The user comments in the test data will be drawn from discussions on different shows than in the training data. This way, we can provide a realistic use case and further can control a possible bias causes by topics.
 
 ## Evaluation
 
