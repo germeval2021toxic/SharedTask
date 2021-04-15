@@ -79,7 +79,7 @@ The evaluation uses precision, recall, and macro-average F1-score as metrics.
 
 ## About KONVENS
 
-The Germeval Shared Tasks are traditionally hosted by KONVENS (Conference on Natural Language Processing), also this year. For more information, see the [conference website](https://konvens2021.phil.hhu.de/). KONVENS is an annual scientific conference on all topics related to computational linguistics and language technology. Please find more information on KONEVNS and previous Germeval Shared Tasks [here](https://konvens.org/site/). 
+The Germeval Shared Tasks are traditionally hosted by KONVENS (Conference on Natural Language Processing). KONVENS is an annual scientific conference on all topics related to computational linguistics and language technology. Please find more information on KONEVNS and previous Germeval Shared Tasks [here](https://konvens.org/site/). This year, the KONVENS will take please at the Heinrich-Heine-University Düsseldorf. For more information, see the [conference website](https://konvens2021.phil.hhu.de/). 
 
 ## Organizers
 
