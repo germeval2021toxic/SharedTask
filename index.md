@@ -73,7 +73,7 @@ For evaluation, the metrics precision, recall, and macro-average F1-score are us
 
 - :heavy_check_mark: Registration is open: April 15, 2021
 - :heavy_check_mark: Trial data release: April 15, 2021
-- Training data release: April 30, 2021
+- :heavy_check_mark: Training data release: April 30, 2021
 - Test data release: June 23, 2021
 - Submission deadline of system runs: June 30, 2021
 - Paper submission due: July 15, 2021
