@@ -46,7 +46,7 @@ However, the identification of fact-claiming comments is a **pre-processing step
 
 ## How to Participate
 
-Teams can participate either in all three or just in one or two of the subtasks. Please register individually [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. After your registration, you will receive the link and password to the training data sent via email. All teams that have submitted a system response will be invited to write a (short) paper about their approach by July 15, 2021 to be published in the GermEval2021 conference proceedings. Please find the guidelines for paper submissions [here]().
+Teams can participate either in all three or just in one or two of the subtasks. Please register individually [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. After your registration, you will receive the link and password to the training data sent via email. All teams that have submitted a system response will be invited to write a (short) paper about their approach by July 15, 2021 to be published in the GermEval2021 conference proceedings. Please find the guidelines for paper submissions [here](https://github.com/germeval2021toxic/SharedTask/blob/main/Paper%20Submission%20Guidelines%20for%20GermEval%202021%20Shared%20Task.pdf).
 
 
 ## Data Set and Resources
