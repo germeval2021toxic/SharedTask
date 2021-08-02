@@ -77,7 +77,7 @@ For evaluation, the metrics precision, recall, and macro-average F1-score are us
 - :heavy_check_mark: Test data release: June 23, 2021
 - :heavy_check_mark: Submission deadline of system runs: June 30, 2021
 - :heavy_check_mark: Paper submission due: July 15, 2021
-- Camera ready version due: August 2, 2021
+- :heavy_check_mark: Camera ready version due: August 2, 2021
 - GermEval Workshop: September 6,  2021
 - [KONVENS conference](https://konvens2021.phil.hhu.de/): September 6-10, 2021
 
