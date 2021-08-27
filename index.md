@@ -83,9 +83,9 @@ For evaluation, the metrics precision, recall, and macro-average F1-score are us
 
 ## GermEval Workshop @KONVENS 2021
 
-+++
+The GermEval wrkshop will take place on **01.09.2021** from 09:00 a.m. to 02:00 p.a. at [KONVENS](https://konvens2021.phil.hhu.de/). Please do not forget to [register for the conference](https://konvens2021.phil.hhu.de/registration/), if you want to attend the workshop.
 
-| time      | program |
+| Time      | Program |
 | ----------- | ----------- |
 | 09:00      | Welcome and presentation of the Shared Task |
 | 09:30   | One Minute Madness for all participants |
