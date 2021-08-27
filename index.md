@@ -92,6 +92,11 @@ For evaluation, the metrics precision, recall, and macro-average F1-score are us
 | 09:50   | Session 1: <br /> *DFKI SLT at GermEval 2021: Multilingual Pre-training and Data Augmentation for the Classification of Toxicity in Social Media Comments* by R. Calizzano, M. Ostendorff, G. Rehm (25 min) <br /> <br /> *UPAppliedCL at GermEval 2021: Identifying Fact-Claiming and Engaging Facebook Comments Using Transformers* by R. Schäfer, M. Stede (25 min) |
 | 10:40 | break |
 | 11:00   | Session 2: <br /> *Data Science Kitchen at GermEval 2021: A Fine Selection of Hand-Picked Features, Delivered Fresh from the Oven* by N. Hildebrandt, B. Boenninghoff, D. Orth, C. Schymura (25 min) <br /> <br /> *DeTox at GermEval 2021: Toxic Comment Classification* by M. Schütz, C. Demus, J. Pitz, N. Probol, M. Siegel, D. Labudde (25 min) <br /> <br /> *AIT FHSTP at GermEval 2021: Automatic Fact Claiming Detection with Multilingual Transformer Models* by J. Böck, D. Liakhovets, M. Schütz, A. Kirchknopf, D. Slijepčević, M. Zeppelzauer, A. Schindler (25 min)|
+| 12:15 | break |
+| 12:35   | Session 3: <br /> *FHAC at GermEval 2021: Identifying German toxic, engaging, and fact-claiming comments with ensemble learning* by T. Bornheim, N. Grieger, S. Bialonski (25 min) <br /> <br /> *WLV-RIT at GermEval 2021: Multitask Learning with Transformers to Detect Toxic, Engaging, and Fact-Claiming Comments* by S. Morgan, T. Ranasinghe, M. Zampieri (25 min) |
+| 13:25 | Feedback & Further Information |
+| 14:00 | End of the Event |
+
 
 
 ## About GermEval
