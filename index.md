@@ -61,11 +61,6 @@ However, the identification of fact-claiming comments is a **pre-processing step
 | *"hmm...das kann ich jetzt nich nachvollziehen..."*   | 0        |
 
 
-## How to Participate
-
-Teams can participate either in all three or just in one or two of the subtasks. Please register individually [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. After your registration, you will receive the link and password to the training data sent via email. All teams that have submitted a system response will be invited to write a (short) paper about their approach by July 15, 2021 to be published in the GermEval2021 conference proceedings. Please find the guidelines for paper submissions [here](https://raw.githubusercontent.com/germeval2021toxic/SharedTask/main/Paper_Submission_Guidelines_GermEval2021.pdf).
-
-
 ## Data Set and Resources
 
 We provide an annotated dataset of over **3,000 Facebook user comments** that have been labeled by four trained annotators. The dataset is drawn from the Facebook page of a **political talk show of a German television broadcaster**, including user discussions from February till July **2019**. The dataset will be shared with **registered participants** and will be made accessible for academic research purposes  after  the  shared  task has ended. The  dataset is provided in **anonymized** form. User information and comment IDs will not be shared. Links to users are replaced by *@USER*. Links to the show are replaced by *@MEDIUM,* and links zu the moderator of the show are replacd by *@MODERATOR*. The data is provided in .csv-format and the following structure:
@@ -76,9 +71,9 @@ We provide an annotated dataset of over **3,000 Facebook user comments** that ha
 | 2 | *"Die aktuelle Situation zeigt vor allem..."* | 0 | 1 | 0 |
 | ... | ... | ... | ... | ... | 
 
-For trial data, a sample of user comments to two shows are provided. The user comments in the test data will be drawn from discussions on different shows than in the training data. This way, we can provide a realistic use case and further can control a possible bias causes by topics.
+For trial data, a sample of user comments to two shows are provided. The user comments in the test data will be drawn from discussions on different shows than in the training data. This way, we can provide a realistic use case and further can control a possible bias causes by topics. The annotation guidelines for the data set can be obtained upon request. 
 
-The annotation guidelines for the data set can be obtained upon request.
+To gain access to the data set of the GermEval2021 Shared Task, please register [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. You will be asked to agree not to share the data with third parties or use them for commercial purposes. After your registration, you will receive the link and password to the data set sent via email.
 
 
 ## Evaluation
