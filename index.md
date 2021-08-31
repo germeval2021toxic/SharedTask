@@ -73,7 +73,7 @@ We provide an annotated dataset of over **3,000 Facebook user comments** that ha
 
 For trial data, a sample of user comments to two shows are provided. The user comments in the test data will be drawn from discussions on different shows than in the training data. This way, we can provide a realistic use case and further can control a possible bias causes by topics. The annotation guidelines for the data set can be obtained upon request. 
 
-To gain access to the data set of the GermEval2021 Shared Task, please register [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. You will be asked to agree not to share the data with third parties or use them for commercial purposes. After your registration, you will receive the link and password to the data set sent via email.
+To gain access to the data set of the GermEval2021 Shared Task, please register [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. You will be asked to agree not to share the data with third parties or use them for commercial purposes. Afterwards, you will receive the link and password to the data set sent via email.
 
 
 ## Evaluation
