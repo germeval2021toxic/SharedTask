@@ -23,7 +23,7 @@ The GermEval wrkshop will take place on **Monday, 06.09.2021** from 09:00 a.m. t
 :warning: ***Disclaimer**: Please note that we display examples of toxic user comments on this website for better understanding and transparency.*
 
 With this year´s shared task, we want participants to go beyond the identification of offensive comments.
-To this end, we extend the focus to two other classes of comments that are highly **relevant** to **moderators** and **community managers** on online discussion platforms: **engaging** comments and **fact-claiming** comments, meaning comments that should be considered as a **priority for fact-checking**. Please find the official invitation [here](https://drive.google.com/u/0/uc?id=11lfr6e1UrJQeiIyi4Kmk-sjx97YqSRDX&export=download).
+To this end, we extend the focus to two other classes of comments that are highly **relevant** to **moderators** and **community managers** on online discussion platforms: **engaging** comments and **fact-claiming** comments, meaning comments that should be considered as a **priority for fact-checking**. Find [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf) an overview over the approaches and the 15 teams who participated in this years shared task.
 
 
 ### Subtask 1: :imp: Toxic Comment Classification (Binary Classification Task)
