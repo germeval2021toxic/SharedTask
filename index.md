@@ -9,7 +9,7 @@ The GermEval wrkshop will take place on **Monday, 06.09.2021** from 09:00 a.m. t
 | ----------- | ----------- |
 | 09:00      | Welcome and presentation of the Shared Task |
 | 09:30   | One Minute Madness for all participants |
-| 09:50   | Session 1 (chair: Anke Stoll): <br /> *DFKI SLT at GermEval 2021: Multilingual Pre-training and Data Augmentation for the Classification of Toxicity in Social Media Comments* by R. Calizzano, M. Ostendorff, G. Rehm (25 min) <br /> <br /> *UPAppliedCL at GermEval 2021: Identifying Fact-Claiming and Engaging Facebook Comments Using Transformers* by R. Schäfer, M. Stede (25 min) |
+| 09:50   | Session 1 (chair: Anke Stoll): <br /> *DFKI SLT at GermEval 2021: Multilingual Pre-training and Data Augmentation for the Classification of Toxicity in Social Media Comments*< /br> by R. Calizzano, M. Ostendorff, G. Rehm (25 min) <br /> <br /> *UPAppliedCL at GermEval 2021: Identifying Fact-Claiming and Engaging Facebook Comments Using Transformers* by R. Schäfer, M. Stede (25 min) |
 | 10:40 | break |
 | 11:00   | Session 2 (chair: Michael Wiegand): <br /> *Data Science Kitchen at GermEval 2021: A Fine Selection of Hand-Picked Features, Delivered Fresh from the Oven* by N. Hildebrandt, B. Boenninghoff, D. Orth, C. Schymura (25 min) <br /> <br /> *DeTox at GermEval 2021: Toxic Comment Classification* by M. Schütz, C. Demus, J. Pitz, N. Probol, M. Siegel, D. Labudde (25 min) <br /> <br /> *AIT FHSTP at GermEval 2021: Automatic Fact Claiming Detection with Multilingual Transformer Models* by J. Böck, D. Liakhovets, M. Schütz, A. Kirchknopf, D. Slijepčević, M. Zeppelzauer, A. Schindler (25 min)|
 | 12:15 | break |
