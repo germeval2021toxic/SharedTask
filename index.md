@@ -19,7 +19,7 @@ The GermEval wrkshop will take place on **Monday, 06.09.2021** from 09:00 a.m. t
 
 ## GermEval 2021 Proceedings
 
-The proceedings have been published by <a href="https://netlibrary.aau.at/">netlibrary</a>. You can find them <a href="https://netlibrary.aau.at/obvukloa/content/titleinfo/6435190">here</a>.<br />
+The proceedings have been published by <a href="https://netlibrary.aau.at/">netlibrary</a>, the open-access repository of University of Klagenfurt. You can find them <a href="https://netlibrary.aau.at/obvukloa/content/titleinfo/6435190">here</a>.<br />
 If you want to browse the individual contributions, you may find <a href="https://netlibrary.aau.at/obvukloa/content/structure/6435190">this link</a> more helpful. <br /> 
 
 URN: <a href="https://resolver.obvsg.at/urn:nbn:at:at-ubk:3-798">urn:nbn:at:at-ubk:3-798</a> <br />
