@@ -30,7 +30,7 @@ DOI: <a href="https://dx.doi.org/10.48415/2021/fhw5-x128">10.48415/2021/fhw5-x12
 :warning: ***Disclaimer**: Please note that we display examples of toxic user comments on this website for better understanding and transparency.*
 
 With this year´s shared task, we want participants to go beyond the identification of offensive comments.
-To this end, we extend the focus to two other classes of comments that are highly **relevant** to **moderators** and **community managers** on online discussion platforms: **engaging** comments and **fact-claiming** comments, meaning comments that should be considered as a **priority for fact-checking**. You can find the **responses to our survey** in which each of the 15 teams participating in this year's shared task provided details on their participation [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
+To this end, we extend the focus to two other classes of comments that are highly **relevant** to **moderators** and **community managers** on online discussion platforms: **engaging** comments and **fact-claiming** comments, meaning comments that should be considered as a **priority for fact-checking**. 
 
 
 ### Subtask 1: :imp: Toxic Comment Classification (Binary Classification Task)
@@ -67,6 +67,11 @@ However, the identification of fact-claiming comments is a **pre-processing step
 | *"Kinder werden nicht nur seltener krank, sie infizieren sich wohl auch seltener mit dem Coronavirus als ihre Eltern - das ist laut Ministerpräsident Winfried Kretschmann (Grüne) das Zwischenergebnis einer Untersuchung der Unikliniken Heidelberg, Freiburg und Tübingen."*      | 1       |
 | *"hmm...das kann ich jetzt nich nachvollziehen..."*   | 0        |
 
+
+## Survey
+
+We compiled a survey for this year's shared task in which we asked each participant to provide details on their submission. 
+You can find the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
 
 ## Data Set and Resources
 
