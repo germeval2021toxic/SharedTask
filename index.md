@@ -3,7 +3,7 @@
 
 ## GermEval Workshop @KONVENS 2021
 
-The GermEval wrkshop will take place on **Monday, 06.09.2021** from 09:00 a.m. to 02:00 p.a. at [KONVENS](https://konvens2021.phil.hhu.de/). Please do not forget to [register for the conference](https://konvens2021.phil.hhu.de/registration/), if you want to attend the workshop.
+The GermEval wrkshop will take place on **Monday, 06.09.2021** from 09:00 a.m. to 02:00 p.m. at [KONVENS](https://konvens2021.phil.hhu.de/). Please do not forget to [register for the conference](https://konvens2021.phil.hhu.de/registration/), if you want to attend the workshop.
 
 | Time      | Program |
 | ----------- | ----------- |
