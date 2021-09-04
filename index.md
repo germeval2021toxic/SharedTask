@@ -17,6 +17,11 @@ The GermEval wrkshop will take place on **Monday, 06.09.2021** from 09:00 a.m. t
 | 13:25 | Feedback & Further Information |
 | 14:00 | End of the Event |
 
+## GermEval 2021 Proceedings
+
+The proceedings have been published by netlibrary. You can find them under the following links:<br />
+link to complete proceedings as one pdf <br />
+link to proceedings where all contributions are split into individuals pdfs <br /> 
 
 ## Task Overview
 
