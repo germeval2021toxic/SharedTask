@@ -90,8 +90,8 @@ To gain access to the data set of the GermEval2021 Shared Task, please register 
 
 ## Evaluation
 
-To evaluate your approach, you will upload your predictions on the test data set that will be released shortly before the task will terminate. We will use the platform [codalab](https://codalab.org/) for evaluation.
-For evaluation, the metrics precision, recall, and macro-average F1-score are used. 
+To evaluate your approach, participants uploaded their predictions on the test data set that was released shortly before the task ended. We used the platform [codalab](https://codalab.org/) for evaluation.
+For evaluation, the metrics precision, recall, and macro-average F1-score were used. The evlaution script is available [here](https://github.com/germeval2021toxic/SharedTask/blob/main/evaluate.py).
 
 ## Time Line
 
