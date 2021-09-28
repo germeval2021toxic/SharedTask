@@ -1,6 +1,8 @@
 # Welcome!
 # To the Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments
 
+<br />
+
 ## GermEval 2021 Proceedings
 
 The proceedings have been published by <a href="https://netlibrary.aau.at/">netlibrary</a>, the open-access repository of University of Klagenfurt. You can find them <a href="https://netlibrary.aau.at/obvukloa/content/titleinfo/6435190">here</a>.<br />
@@ -48,6 +50,7 @@ The detection of **toxic content** in online discussions **remains challenging**
 | *"Ich macht mich wütend, dass niemand den Schülerinnen Gehör schenkt"*   | 0        |
 
 <br />
+
 ### Subtask 2: :hugs: Engaging Comment Classification (Binary Classification Task)
 
 In addition to the detection of toxic language, community managers and moderators increasingly express interest in **identifying particularly valuable** user content, for example, to highlight them and to give them more visibility. That includes rational, respectful, and reciprocal comments that can **encourage** readers to join the discussion, **increase positive perceptions** of discussion providers, and can enhance more **fruitful** and less violent exchange.
@@ -58,6 +61,7 @@ In addition to the detection of toxic language, community managers and moderator
 | *"Die aktuelle Situation zeigt vor allem eines: viele Kinder mussten erkennen, dass ihre Mutter bestenfalls das Niveau Grundschule, Klasse 3 haben."*   | 0        |
 
 <br />
+
 ### Subtask 3: :point_up: Fact-Claiming Comment Classification (Binary Classification Task)
 
 Beyond the challenge to ensure non-hostile debates, platforms and moderators are under pressure to act due to the rapid spread of **misinformation** and fake news. 
@@ -94,6 +98,7 @@ The GermEval workshop took place on September 6 at [KONVENS 2021](https://konven
 | 13:25 | Feedback & Further Information |
 | 14:00 | End of the Event |
 
+<br />
 
 ## About KONVENS
 
