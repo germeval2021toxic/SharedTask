@@ -14,7 +14,7 @@ We compiled a **survey** for this year's shared task in which we asked each part
 You can find the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
 
 
-## Task Overview
+## Task Overview and Data Set
 
 :warning: ***Disclaimer**: Please note that we display examples of toxic user comments on this website for better understanding and transparency.*
 
@@ -57,15 +57,17 @@ However, the identification of fact-claiming comments is a **pre-processing step
 | *"hmm...das kann ich jetzt nich nachvollziehen..."*   | 0        |
 
 
-## Data Set and Resources
-
 We provide an annotated dataset of over **3,000 Facebook user comments** that have been labeled by four trained annotators. The dataset is drawn from the Facebook page of a **political talk show of a German television broadcaster**, including user discussions from February till July **2019**. The dataset will be shared with **registered participants** and will be made accessible for academic research purposes  after  the  shared  task has ended. The  dataset is provided in **anonymized** form. User information and comment IDs will not be shared. Links to users are replaced by *@USER*. Links to the show are replaced by *@MEDIUM,* and links zu the moderator of the show are replacd by *@MODERATOR*. The data is provided in .csv-format and the following structure:
+
+
 
 | comment_id | comment_text | Sub1_Toxic | Sub2_Engaging | Sub3_FactClaiming |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1 | *"Kinder werden...."*      | 0 | 0 | 1 |
 | 2 | *"Die aktuelle Situation zeigt vor allem..."* | 0 | 1 | 0 |
 | ... | ... | ... | ... | ... | 
+
+
 
 For trial data, a sample of user comments to two shows are provided. The user comments in the test data will be drawn from discussions on different shows than in the training data. This way, we can provide a realistic use case and further can control a possible bias causes by topics. The annotation guidelines for the data set can be obtained upon request. 
 
@@ -79,7 +81,7 @@ GermEval is a series of shared task evaluation campaigns that focus on Natural L
 
 ## GermEval Workshop @KONVENS 2021
 
-The GermEval wrkshop will take place on **Monday, 06.09.2021** from 09:00 a.m. to 02:00 p.m. at [KONVENS](https://konvens2021.phil.hhu.de/). Please do not forget to [register for the conference](https://konvens2021.phil.hhu.de/registration/), if you want to attend the workshop.
+The GermEval workshop took place on September 6 at [KONVENS 2021](https://konvens2021.phil.hhu.de/) with the following program:
 
 | Time      | Program |
 | ----------- | ----------- |
