@@ -1,22 +1,6 @@
 # Welcome!
 # To the Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments
 
-## GermEval Workshop @KONVENS 2021
-
-The GermEval wrkshop will take place on **Monday, 06.09.2021** from 09:00 a.m. to 02:00 p.m. at [KONVENS](https://konvens2021.phil.hhu.de/). Please do not forget to [register for the conference](https://konvens2021.phil.hhu.de/registration/), if you want to attend the workshop.
-
-| Time      | Program |
-| ----------- | ----------- |
-| 09:00      | Welcome and presentation of the Shared Task |
-| 09:30 | One Minute Madness for all participants |
-| 09:50   | <b>Session 1</b> (chair: Anke Stoll) <br /> *DFKI SLT at GermEval 2021: Multilingual Pre-training and Data Augmentation for the Classification of Toxicity in Social Media Comments* by R. Calizzano, M. Ostendorff, G. Rehm (25 min) <br /> <br /> *UPAppliedCL at GermEval 2021: Identifying Fact-Claiming and Engaging Facebook Comments Using Transformers* by R. Schäfer, M. Stede (25 min) |
-| 10:40 | break |
-| 11:00   | <b>Session 2</b> (chair: Michael Wiegand) <br /> *Data Science Kitchen at GermEval 2021: A Fine Selection of Hand-Picked Features, Delivered Fresh from the Oven*  by N. Hildebrandt, B. Boenninghoff, D. Orth, C. Schymura  (25 min) <br /> <br /> *DeTox at GermEval 2021: Toxic Comment Classification*  by M. Schütz, C. Demus, J. Pitz, N. Probol, M. Siegel, D. Labudde  (25 min) <br /> <br /> *AIT FHSTP at GermEval 2021: Automatic Fact Claiming Detection with Multilingual Transformer Models*  by J. Böck, D. Liakhovets, M. Schütz, A. Kirchknopf, D. Slijepčević, M. Zeppelzauer, A. Schindler  (25 min)|
-| 12:15 | break |
-| 12:35   | <b>Session 3</b> (chair: Lena Wilms) <br /> *FHAC at GermEval 2021: Identifying German toxic, engaging, and fact-claiming comments with ensemble learning*  by T. Bornheim, N. Grieger, S. Bialonski  (25 min) <br /> <br /> *WLV-RIT at GermEval 2021: Multitask Learning with Transformers to Detect Toxic, Engaging, and Fact-Claiming Comments*  by S. Morgan, T. Ranasinghe, M. Zampieri  (25 min) |
-| 13:25 | Feedback & Further Information |
-| 14:00 | End of the Event |
-
 ## GermEval 2021 Proceedings
 
 The proceedings have been published by <a href="https://netlibrary.aau.at/">netlibrary</a>, the open-access repository of University of Klagenfurt. You can find them <a href="https://netlibrary.aau.at/obvukloa/content/titleinfo/6435190">here</a>.<br />
@@ -24,6 +8,11 @@ If you want to browse the individual contributions, you may find <a href="https:
 
 URN: <a href="https://resolver.obvsg.at/urn:nbn:at:at-ubk:3-798">urn:nbn:at:at-ubk:3-798</a> <br />
 DOI: <a href="https://dx.doi.org/10.48415/2021/fhw5-x128">10.48415/2021/fhw5-x128</a> <br /> 
+
+
+We compiled a **survey** for this year's shared task in which we asked each participant to provide details on their submission. 
+You can find the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
+
 
 ## Task Overview
 
@@ -68,11 +57,6 @@ However, the identification of fact-claiming comments is a **pre-processing step
 | *"hmm...das kann ich jetzt nich nachvollziehen..."*   | 0        |
 
 
-## Survey
-
-We compiled a survey for this year's shared task in which we asked each participant to provide details on their submission. 
-You can find the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
-
 ## Data Set and Resources
 
 We provide an annotated dataset of over **3,000 Facebook user comments** that have been labeled by four trained annotators. The dataset is drawn from the Facebook page of a **political talk show of a German television broadcaster**, including user discussions from February till July **2019**. The dataset will be shared with **registered participants** and will be made accessible for academic research purposes  after  the  shared  task has ended. The  dataset is provided in **anonymized** form. User information and comment IDs will not be shared. Links to users are replaced by *@USER*. Links to the show are replaced by *@MEDIUM,* and links zu the moderator of the show are replacd by *@MODERATOR*. The data is provided in .csv-format and the following structure:
@@ -111,9 +95,27 @@ For evaluation, the metrics precision, recall, and macro-average F1-score were u
 GermEval is a series of shared task evaluation campaigns that focus on Natural Language Processing for the German language. So far, there have been six iterations of GermEval, each with different types of tasks: [https://germeval.github.io/tasks/](https://germeval.github.io/tasks/) GermEval shared tasks have been run informally by self-organized groups of interested researchers. However, many of the shared tasks were endorsed by special interest groups within the [German Society for Computational Linguistics (GSCL)](https://gscl.org/en). The Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments is endorsed by the [IGGSA (Interest Group on German Sentiment Analysis)](https://sites.google.com/site/iggsahome/home).
 
 
+## GermEval Workshop @KONVENS 2021
+
+The GermEval wrkshop will take place on **Monday, 06.09.2021** from 09:00 a.m. to 02:00 p.m. at [KONVENS](https://konvens2021.phil.hhu.de/). Please do not forget to [register for the conference](https://konvens2021.phil.hhu.de/registration/), if you want to attend the workshop.
+
+| Time      | Program |
+| ----------- | ----------- |
+| 09:00      | Welcome and presentation of the Shared Task |
+| 09:30 | One Minute Madness for all participants |
+| 09:50   | <b>Session 1</b> (chair: Anke Stoll) <br /> *DFKI SLT at GermEval 2021: Multilingual Pre-training and Data Augmentation for the Classification of Toxicity in Social Media Comments* by R. Calizzano, M. Ostendorff, G. Rehm (25 min) <br /> <br /> *UPAppliedCL at GermEval 2021: Identifying Fact-Claiming and Engaging Facebook Comments Using Transformers* by R. Schäfer, M. Stede (25 min) |
+| 10:40 | break |
+| 11:00   | <b>Session 2</b> (chair: Michael Wiegand) <br /> *Data Science Kitchen at GermEval 2021: A Fine Selection of Hand-Picked Features, Delivered Fresh from the Oven*  by N. Hildebrandt, B. Boenninghoff, D. Orth, C. Schymura  (25 min) <br /> <br /> *DeTox at GermEval 2021: Toxic Comment Classification*  by M. Schütz, C. Demus, J. Pitz, N. Probol, M. Siegel, D. Labudde  (25 min) <br /> <br /> *AIT FHSTP at GermEval 2021: Automatic Fact Claiming Detection with Multilingual Transformer Models*  by J. Böck, D. Liakhovets, M. Schütz, A. Kirchknopf, D. Slijepčević, M. Zeppelzauer, A. Schindler  (25 min)|
+| 12:15 | break |
+| 12:35   | <b>Session 3</b> (chair: Lena Wilms) <br /> *FHAC at GermEval 2021: Identifying German toxic, engaging, and fact-claiming comments with ensemble learning*  by T. Bornheim, N. Grieger, S. Bialonski  (25 min) <br /> <br /> *WLV-RIT at GermEval 2021: Multitask Learning with Transformers to Detect Toxic, Engaging, and Fact-Claiming Comments*  by S. Morgan, T. Ranasinghe, M. Zampieri  (25 min) |
+| 13:25 | Feedback & Further Information |
+| 14:00 | End of the Event |
+
+
 ## About KONVENS
 
 The GermEval 2021 workshop is part of [KONVENS 2021](https://konvens2021.phil.hhu.de/). KONVENS (Konferenz zur Verarbeitung natürlicher Sprache/Conference on Natural Language Processing) is an annual conference series on computational linguistics that is organized under the auspices of the German Society for Computational Linguistics and Language Technology (GSCL), the Special Interest Group on Computational Linguistics of the German Linguistic Society (DGfS-CL) and the Austrian Society for Artificial Intelligence (ÖGAI).
+
 
 ## Organizers
 
