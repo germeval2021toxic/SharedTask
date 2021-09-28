@@ -19,7 +19,20 @@ You can find the **responses to our survey** [here](https://github.com/germeval2
 :warning: ***Disclaimer**: Please note that we display examples of toxic user comments on this website for better understanding and transparency.*
 
 With this year´s shared task, we want participants to go beyond the identification of offensive comments.
-To this end, we extend the focus to two other classes of comments that are highly **relevant** to **moderators** and **community managers** on online discussion platforms: **engaging** comments and **fact-claiming** comments, meaning comments that should be considered as a **priority for fact-checking**. 
+To this end, we extend the focus to two other classes of comments that are highly **relevant** to **moderators** and **community managers** on online discussion platforms: **engaging** comments and **fact-claiming** comments, meaning comments that should be considered as a **priority for fact-checking**. We provide an annotated dataset of over **3,000 Facebook user comments** that have been labeled by four trained annotators. The dataset is drawn from the Facebook page of a **political talk show of a German television broadcaster**, including user discussions from February till July **2019**. The  dataset is provided in **anonymized** form. User information and comment IDs will not be shared. Links to users are replaced by *@USER*. Links to the show are replaced by *@MEDIUM,* and links zu the moderator of the show are replacd by *@MODERATOR*. For trial data, a sample of user comments to two further shows has been provided. The user comments in the test data were drawn from discussions on different shows than in the training data. This way, we could provide a realistic use case and further could control a possible bias causes by topics. The annotation guidelines for the data set can be obtained upon request. The data is provided in .csv-format and the following structure:
+
+
+
+| comment_id | comment_text | Sub1_Toxic | Sub2_Engaging | Sub3_FactClaiming |
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| 1 | *"Kinder werden...."*      | 0 | 0 | 1 |
+| 2 | *"Die aktuelle Situation zeigt vor allem..."* | 0 | 1 | 0 |
+| ... | ... | ... | ... | ... | 
+
+
+
+To gain access to the data set of the GermEval2021 Shared Task, please register [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. You will be asked to agree not to share the data with third parties or use them for commercial purposes. Afterwards, you will receive the link and password to the data set sent via email.
+
 
 
 ### Subtask 1: :imp: Toxic Comment Classification (Binary Classification Task)
@@ -56,22 +69,6 @@ However, the identification of fact-claiming comments is a **pre-processing step
 | *"Kinder werden nicht nur seltener krank, sie infizieren sich wohl auch seltener mit dem Coronavirus als ihre Eltern - das ist laut Ministerpräsident Winfried Kretschmann (Grüne) das Zwischenergebnis einer Untersuchung der Unikliniken Heidelberg, Freiburg und Tübingen."*      | 1       |
 | *"hmm...das kann ich jetzt nich nachvollziehen..."*   | 0        |
 
-
-We provide an annotated dataset of over **3,000 Facebook user comments** that have been labeled by four trained annotators. The dataset is drawn from the Facebook page of a **political talk show of a German television broadcaster**, including user discussions from February till July **2019**. The dataset will be shared with **registered participants** and will be made accessible for academic research purposes  after  the  shared  task has ended. The  dataset is provided in **anonymized** form. User information and comment IDs will not be shared. Links to users are replaced by *@USER*. Links to the show are replaced by *@MEDIUM,* and links zu the moderator of the show are replacd by *@MODERATOR*. The data is provided in .csv-format and the following structure:
-
-
-
-| comment_id | comment_text | Sub1_Toxic | Sub2_Engaging | Sub3_FactClaiming |
-| ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | *"Kinder werden...."*      | 0 | 0 | 1 |
-| 2 | *"Die aktuelle Situation zeigt vor allem..."* | 0 | 1 | 0 |
-| ... | ... | ... | ... | ... | 
-
-
-
-For trial data, a sample of user comments to two shows are provided. The user comments in the test data will be drawn from discussions on different shows than in the training data. This way, we can provide a realistic use case and further can control a possible bias causes by topics. The annotation guidelines for the data set can be obtained upon request. 
-
-To gain access to the data set of the GermEval2021 Shared Task, please register [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. You will be asked to agree not to share the data with third parties or use them for commercial purposes. Afterwards, you will receive the link and password to the data set sent via email.
 
 
 ## About GermEval
