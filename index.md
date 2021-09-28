@@ -72,12 +72,6 @@ For trial data, a sample of user comments to two shows are provided. The user co
 To gain access to the data set of the GermEval2021 Shared Task, please register [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. You will be asked to agree not to share the data with third parties or use them for commercial purposes. Afterwards, you will receive the link and password to the data set sent via email.
 
 
-## Evaluation
-
-To evaluate your approach, participants uploaded their predictions on the test data set that was released shortly before the task ended. We used the platform [codalab](https://codalab.org/) for evaluation.
-For evaluation, the metrics precision, recall, and macro-average F1-score were used. The evalution script is available [here](https://github.com/germeval2021toxic/SharedTask/blob/main/evaluate.py).
-
-
 ## About GermEval
 
 GermEval is a series of shared task evaluation campaigns that focus on Natural Language Processing for the German language. So far, there have been six iterations of GermEval, each with different types of tasks: [https://germeval.github.io/tasks/](https://germeval.github.io/tasks/) GermEval shared tasks have been run informally by self-organized groups of interested researchers. However, many of the shared tasks were endorsed by special interest groups within the [German Society for Computational Linguistics (GSCL)](https://gscl.org/en). The Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments is endorsed by the [IGGSA (Interest Group on German Sentiment Analysis)](https://sites.google.com/site/iggsahome/home).
