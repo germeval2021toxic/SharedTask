@@ -35,7 +35,7 @@ We provide an annotated dataset of over **3,000 Facebook user comments** that ha
 <br /> To gain access to the data set of the GermEval2021 Shared Task, please register [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. You will be asked to agree not to share the data with third parties or use them for commercial purposes. Afterwards, you will receive the link and password to the data set sent via email.
 
 
-
+<br />
 ### Subtask 1: :imp: Toxic Comment Classification (Binary Classification Task)
 
 
@@ -46,7 +46,7 @@ The detection of **toxic content** in online discussions **remains challenging**
 | *"Na,  welchem tech riesen hat er seine Eier verkauft..?"*      | 1       |
 | *"Ich macht mich wütend, dass niemand den Schülerinnen Gehör schenkt"*   | 0        |
 
-
+<br />
 ### Subtask 2: :hugs: Engaging Comment Classification (Binary Classification Task)
 
 In addition to the detection of toxic language, community managers and moderators increasingly express interest in **identifying particularly valuable** user content, for example, to highlight them and to give them more visibility. That includes rational, respectful, and reciprocal comments that can **encourage** readers to join the discussion, **increase positive perceptions** of discussion providers, and can enhance more **fruitful** and less violent exchange.
@@ -56,7 +56,7 @@ In addition to the detection of toxic language, community managers and moderator
 | *"Wie wär’s mit einer Kostenteilung. Schließlich haben beide Parteien (Verkäufer und Käufer) etwas von der Tätigkeit des Maklers. Gilt gleichermassen für Vermietungen. Die  Kosten werden so oder soweit verrechnet, eine Kostenreduktion ist somit nicht zu erwarten."*      | 1       |
 | *"Die aktuelle Situation zeigt vor allem eines: viele Kinder mussten erkennen, dass ihre Mutter bestenfalls das Niveau Grundschule, Klasse 3 haben."*   | 0        |
 
-
+<br />
 ### Subtask 3: :point_up: Fact-Claiming Comment Classification (Binary Classification Task)
 
 Beyond the challenge to ensure non-hostile debates, platforms and moderators are under pressure to act due to the rapid spread of **misinformation** and fake news. 
