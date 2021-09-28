@@ -77,18 +77,6 @@ To gain access to the data set of the GermEval2021 Shared Task, please register 
 To evaluate your approach, participants uploaded their predictions on the test data set that was released shortly before the task ended. We used the platform [codalab](https://codalab.org/) for evaluation.
 For evaluation, the metrics precision, recall, and macro-average F1-score were used. The evalution script is available [here](https://github.com/germeval2021toxic/SharedTask/blob/main/evaluate.py).
 
-## Time Line
-
-- :heavy_check_mark: Registration is open: April 15, 2021
-- :heavy_check_mark: Trial data release: April 15, 2021
-- :heavy_check_mark: Training data release: April 30, 2021
-- :heavy_check_mark: Test data release: June 23, 2021
-- :heavy_check_mark: Submission deadline of system runs: June 30, 2021
-- :heavy_check_mark: Paper submission due: July 15, 2021
-- :heavy_check_mark: Camera ready version due: August 2, 2021
-- GermEval Workshop: September 6,  2021
-- [KONVENS conference](https://konvens2021.phil.hhu.de/): September 6-10, 2021
-
 
 ## About GermEval
 
@@ -123,5 +111,3 @@ The GermEval 2021 workshop is part of [KONVENS 2021](https://konvens2021.phil.hh
 - [Anke Stoll](https://www.phil-fak.uni-duesseldorf.de/kmw/juniorprofessur-fuer-politische-online-kommunikation/team/anke-stoll/) (Department of Social Sciences, Heinrich Heine University Düsseldorf)
 - [Lena Wilms](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/juniorprofessur/lena-wilms) (Department of Social Sciences, Heinrich Heine University Düsseldorf)
 - [Michael Wiegand](https://www.aau.at/team/wiegand-michael/) (Digital Age Research Center, University of Klagenfurt)
-
-If you have any questions, please do not hesitate to [contact us](mailto:germeval2021toxic@gmail.com)!
