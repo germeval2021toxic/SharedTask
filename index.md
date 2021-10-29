@@ -10,7 +10,7 @@
 
 **Get the Data:** You want to work with the Germevl 2021 annotated user comments? Find the training and test data [here](https://github.com/germeval2021toxic/SharedTask/tree/main/Data%20Sets).
 
-If you use our data or refer to the Germval 2021 Shared Task, please cite
+If you use our data or refer to the Germval 2021 Shared Task, please cite:
 ```
 @inproceedings{risch-etal-2021-overview,
     title = "Overview of the {G}erm{E}val 2021 Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments",
