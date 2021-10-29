@@ -3,18 +3,31 @@
 
 <br />
 
-## GermEval 2021 Proceedings
+## GermEval 2021 Overview
 
-The proceedings have been published by <a href="https://netlibrary.aau.at/">netlibrary</a>, the open-access repository of University of Klagenfurt. You can find them <a href="https://netlibrary.aau.at/obvukloa/content/titleinfo/6435190">here</a>.<br />
-If you want to browse the individual contributions, you may find <a href="https://netlibrary.aau.at/obvukloa/content/structure/6435190">this link</a> more helpful. <br /> 
+**Germeval 2021 Procceedings** Find out more about the task, the aim, and the results of Germeval 2021 in the official Proceedings [here](https://aclanthology.org/volumes/2021.germeval-1/).
 
-URN: <a href="https://resolver.obvsg.at/urn:nbn:at:at-ubk:3-798">urn:nbn:at:at-ubk:3-798</a> <br />
-DOI: <a href="https://dx.doi.org/10.48415/2021/fhw5-x128">10.48415/2021/fhw5-x128</a> <br /> 
+**Who attended?** Find out more about the participants and have a look at the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
 
+**Get the Data** Find out more about the participants and have a look at the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
 
-We compiled a **survey** for this year's shared task in which we asked each participant to provide details on their submission. 
-You can find the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
-
+Please cite
+```
+@inproceedings{risch-etal-2021-overview,
+    title = "Overview of the {G}erm{E}val 2021 Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments",
+    author = "Risch, Julian  and
+      Stoll, Anke  and
+      Wilms, Lena  and
+      Wiegand, Michael",
+    booktitle = "Proceedings of the GermEval 2021 Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments",
+    month = sep,
+    year = "2021",
+    address = "Duesseldorf, Germany",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.germeval-1.1",
+    pages = "1--12",
+}
+```
 
 ## Task Overview and Data Set
 
