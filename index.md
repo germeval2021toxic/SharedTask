@@ -3,13 +3,13 @@
 
 <br />
 
-## GermEval 2021 Overview
 
-**Germeval 2021 Procceedings** Find out more about the task, the aim, and the results of Germeval 2021 in the official Proceedings [here](https://aclanthology.org/volumes/2021.germeval-1/).
+### Germeval 2021 Procceedings
+Read about the task, the aim, and the results of Germeval 2021 in the official Proceedings [here](https://aclanthology.org/volumes/2021.germeval-1/).
 
 **Who attended?** Find out more about the participants and have a look at the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
 
-**Get the Data** Find out more about the participants and have a look at the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
+**Get the Data:** Find out more about the participants and have a look at the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
 
 Please cite
 ```
