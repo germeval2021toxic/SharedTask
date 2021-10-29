@@ -1,17 +1,16 @@
-# Welcome!
+# Welcome! 👋
 # To the Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments
 
 <br />
 
 
-### Germeval 2021 Procceedings
-Read about the task, the aim, and the results of Germeval 2021 in the official Proceedings [here](https://aclanthology.org/volumes/2021.germeval-1/).
+**Germeval 2021 Procceedings:** Read about the task, the aim, and the results of Germeval 2021 in the official Proceedings [here](https://aclanthology.org/volumes/2021.germeval-1/).
 
 **Who attended?** Find out more about the participants and have a look at the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
 
-**Get the Data:** Find out more about the participants and have a look at the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
+**Get the Data:** You want to work with the Germevl 2021 annotated user comments? Find the training and test data [here](https://github.com/germeval2021toxic/SharedTask/tree/main/Data%20Sets).
 
-Please cite
+If you use our data or refer to the Germval 2021 Shared Task, please cite
 ```
 @inproceedings{risch-etal-2021-overview,
     title = "Overview of the {G}erm{E}val 2021 Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments",
@@ -82,7 +81,7 @@ However, the identification of fact-claiming comments is a **pre-processing step
 | ----------- | ----------- |
 | *"Kinder werden nicht nur seltener krank, sie infizieren sich wohl auch seltener mit dem Coronavirus als ihre Eltern - das ist laut Ministerpräsident Winfried Kretschmann (Grüne) das Zwischenergebnis einer Untersuchung der Unikliniken Heidelberg, Freiburg und Tübingen."*      | 1       |
 | *"hmm...das kann ich jetzt nich nachvollziehen..."*   | 0        |
-
+<br />
 
 
 ## About GermEval
