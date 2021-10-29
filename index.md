@@ -32,11 +32,6 @@ We provide an annotated dataset of over **3,000 Facebook user comments** that ha
 | 2 | *"Die aktuelle Situation zeigt vor allem..."* | 0 | 1 | 0 |
 | ... | ... | ... | ... | ... | 
 
-
-
-<br /> To gain access to the data set of the GermEval2021 Shared Task, please register [via google forms](https://docs.google.com/forms/d/e/1FAIpQLSe7R-rfHNU-mXlP6w7sg6A3rogduuityeM_lhF8OiS8zJnixg/viewform) with your name and your institution or company. You will be asked to agree not to share the data with third parties or use them for commercial purposes. Afterwards, you will receive the link and password to the data set sent via email.
-
-
 <br />
 
 ### Subtask 1: :imp: Toxic Comment Classification (Binary Classification Task)
