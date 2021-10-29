@@ -56,6 +56,7 @@ The detection of **toxic content** in online discussions **remains challenging**
 | *"Na,  welchem tech riesen hat er seine Eier verkauft..?"*      | 1       |
 | *"Ich macht mich wütend, dass niemand den Schülerinnen Gehör schenkt"*   | 0        |
 
+
 <br />
 
 ### Subtask 2: :hugs: Engaging Comment Classification (Binary Classification Task)
@@ -81,6 +82,7 @@ However, the identification of fact-claiming comments is a **pre-processing step
 | ----------- | ----------- |
 | *"Kinder werden nicht nur seltener krank, sie infizieren sich wohl auch seltener mit dem Coronavirus als ihre Eltern - das ist laut Ministerpräsident Winfried Kretschmann (Grüne) das Zwischenergebnis einer Untersuchung der Unikliniken Heidelberg, Freiburg und Tübingen."*      | 1       |
 | *"hmm...das kann ich jetzt nich nachvollziehen..."*   | 0        |
+
 <br />
 
 
