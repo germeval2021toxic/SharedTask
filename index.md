@@ -21,7 +21,6 @@ If you use our data or refer to the Germval 2021 Shared Task, please cite:
     booktitle = "Proceedings of the GermEval 2021 Shared Task on the Identification of Toxic, Engaging, and Fact-Claiming Comments",
     month = sep,
     year = "2021",
-    address = "Duesseldorf, Germany",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2021.germeval-1.1",
     pages = "1--12",
