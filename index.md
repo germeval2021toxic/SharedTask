@@ -8,7 +8,7 @@
 
 **Who attended?** Find out more about the participants and have a look at the **responses to our survey** [here](https://github.com/germeval2021toxic/SharedTask/blob/main/GermEval2021_Survey.pdf).
 
-**Get the Data:** You want to work with the Germevl 2021 annotated user comments? Find the training and test data [here](https://github.com/germeval2021toxic/SharedTask/tree/main/Data%20Sets).
+**Get the Data:** You want to work with the Germeval 2021 annotated user comments? Find the training and test data [here](https://github.com/germeval2021toxic/SharedTask/tree/main/Data%20Sets).
 
 If you use the Germeval data sets or refer to the Shared Task, please cite:
 ```
