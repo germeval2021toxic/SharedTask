@@ -116,6 +116,6 @@ The GermEval 2021 workshop is part of [KONVENS 2021](https://konvens2021.phil.hh
 ## Organizers
 
 - [Julian Risch](https://julianrisch.de/) ([deepset](https://www.deepset.ai/))
-- [Anke Stoll](https://www.phil-fak.uni-duesseldorf.de/kmw/juniorprofessur-fuer-politische-online-kommunikation/team/anke-stoll/) (Department of Social Sciences, Heinrich Heine University Düsseldorf)
+- [Anke Stoll](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/juniorprofessur/anke-stoll) (Department of Social Sciences, Heinrich Heine University Düsseldorf)
 - [Lena Wilms](https://www.sozwiss.hhu.de/institut/abteilungen/kommunikations-und-medienwissenschaft/juniorprofessur/lena-wilms) (Department of Social Sciences, Heinrich Heine University Düsseldorf)
 - [Michael Wiegand](https://www.aau.at/team/wiegand-michael/) (Digital Age Research Center, University of Klagenfurt)
